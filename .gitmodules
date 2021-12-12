@@ -1,3 +1,7 @@
 [submodule "path_to_submodule"] 
   path = "themes/portfolio" 
+<<<<<<< HEAD
   url = https://github.com/riyadhuddin/portfolio.git
+=======
+  url = https://github.com/riyadhuddin/portfolio.git
+>>>>>>> 3c912e66fc7d48996cd96f39f1143879e3354339
