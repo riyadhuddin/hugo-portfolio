@@ -47,34 +47,41 @@ params:
   descripe_l1_person: "Hi, I'm Riyadh, a passionate application developer. I tend to make use of modern technologies to build apps that looks great, feels fantastic, and functions correctly."
   descripe_l2_person: "You can find my works [here](#projects)"
   skills:
-    - name: Python
-      percentage: 90
-    - name: Flutter
+    - name: Python, Git
       percentage: 65
-    - name: Hugo
-      percentage: 80
-    - name: AWS
+    - name: AWS, Azure, Serverless, Sagemaker, S3
+      percentage: 55
+    - name: Machine Learning, Tensorflow
       percentage: 70
+    - name: NFT - Solana, Solidity, alchemy, hardhat
+      percentage: 45
+      details: deployed multiple solana, multiplex
+    - name: Flutter, GRPC, .NET, Java, Kubernetes
+      percentage: 35
+    - name: Hugo, BootstrapStudio, nodejs
+      percentage: 51
 
   # Experience
   disable_experience: false
   experience:
     - company: "iacdrops"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Software developer"
+      role: "Founder"
       startdate: November 2021
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Fullstack developer
+        - point: Right now I am working on serverless prediction api and headless e-commerce solution.
+        - point: Actively looking for co-founder and fundings for iacdrops. Planning to go full service by June 2022.
     - company: "rbiostudio"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
       startdate: Mar 2020
       enddate: July 2021
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Developed prediction pipline, api.
+        - point: Created a fully integrated mobile and web serving.
+        - point: rbistudio.tech, precmedlab.me, project depriciated.
     
 
   # Education
