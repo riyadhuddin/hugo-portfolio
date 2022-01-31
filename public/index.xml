@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Riyadh Uddin</title>
-    <link>https://iacdrops.xyz/</link>
+    <link>https://riyadhuddin.netlify.app/</link>
     <description>Recent content on Riyadh Uddin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 19:53:33 +0530</lastBuildDate><atom:link href="https://iacdrops.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 19:53:33 +0530</lastBuildDate><atom:link href="https://riyadhuddin.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PR for iacdrops</title>
-      <link>https://iacdrops.xyz/blog/iacdrops/</link>
+      <link>https://riyadhuddin.netlify.app/blog/iacdrops/</link>
       <pubDate>Fri, 03 Dec 2021 19:53:33 +0530</pubDate>
       
-      <guid>https://iacdrops.xyz/blog/iacdrops/</guid>
+      <guid>https://riyadhuddin.netlify.app/blog/iacdrops/</guid>
       <description>We are under development right now
 Twitter @aws still having issues, it seems other regions also impacted pic.twitter.com/5WuU7Mzfcv
 &amp;mdash; Riyadh Uddin (@RiyadhUddin_) December 7, 2021  Youtube   </description>
@@ -20,28 +20,28 @@ Twitter @aws still having issues, it seems other regions also impacted pic.twitt
     
     <item>
       <title>IaCdrops is under development</title>
-      <link>https://iacdrops.xyz/project/example/</link>
+      <link>https://riyadhuddin.netlify.app/project/example/</link>
       <pubDate>Tue, 04 May 2021 11:30:13 +0530</pubDate>
       
-      <guid>https://iacdrops.xyz/project/example/</guid>
+      <guid>https://riyadhuddin.netlify.app/project/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shell based portfolio</title>
-      <link>https://iacdrops.xyz/project/portfolio/</link>
+      <link>https://riyadhuddin.netlify.app/project/portfolio/</link>
       <pubDate>Tue, 04 May 2021 11:30:13 +0530</pubDate>
       
-      <guid>https://iacdrops.xyz/project/portfolio/</guid>
+      <guid>https://riyadhuddin.netlify.app/project/portfolio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SparkAR filter for Bangladesh victory day celebration 2021</title>
-      <link>https://iacdrops.xyz/project/sparkar_victoryday/</link>
+      <link>https://riyadhuddin.netlify.app/project/sparkar_victoryday/</link>
       <pubDate>Tue, 04 May 2021 11:30:13 +0530</pubDate>
       
-      <guid>https://iacdrops.xyz/project/sparkar_victoryday/</guid>
+      <guid>https://riyadhuddin.netlify.app/project/sparkar_victoryday/</guid>
       <description>We are under development right now
 Twitter As it is my 1st SparkAR effect so may not be smooth enough, yet working on improving my skill. You can try them on Facebook: https://t.co/WAobiKY0GZ
 and Instagram: https://t.co/2p1n7MBVas
@@ -51,10 +51,10 @@ Thank You ❤️🇧🇩#sparkar #bangladesh #1971war #16th #december #victoryda
     
     <item>
       <title></title>
-      <link>https://iacdrops.xyz/privacy-policy/pp/</link>
+      <link>https://riyadhuddin.netlify.app/privacy-policy/pp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iacdrops.xyz/privacy-policy/pp/</guid>
+      <guid>https://riyadhuddin.netlify.app/privacy-policy/pp/</guid>
       <description>Privacy Policy
 Riyadh Uddin built the iacdrops app as an Open Source app. This SERVICE is provided by iacdrops at no cost and is intended for use as is.
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
@@ -63,12 +63,23 @@ If you choose to use our Service, then you agree to the collection and use of in
     
     <item>
       <title></title>
-      <link>https://iacdrops.xyz/privacy-policy/tos/</link>
+      <link>https://riyadhuddin.netlify.app/privacy-policy/tos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iacdrops.xyz/privacy-policy/tos/</guid>
+      <guid>https://riyadhuddin.netlify.app/privacy-policy/tos/</guid>
       <description>Terms &amp;amp; Conditions
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions.</description>
+    </item>
+    
+    <item>
+      <title>SparkAR filter for International mother language day</title>
+      <link>https://riyadhuddin.netlify.app/project/sparkar_ekushe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riyadhuddin.netlify.app/project/sparkar_ekushe/</guid>
+      <description>We are under development right now
+Twitter #21st #february #sparkar https://t.co/So5M3hWjXlhttps://t.co/sT7Z6I1MAV pic.twitter.com/MK6JwQa1t1
+&amp;mdash; Riyadh Uddin (@RiyadhUddin_) January 31, 2022  Youtube   </description>
     </item>
     
   </channel>

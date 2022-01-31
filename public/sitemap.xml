@@ -2,39 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://iacdrops.xyz/blog/</loc>
+    <loc>https://riyadhuddin.netlify.app/blog/</loc>
     <lastmod>2021-12-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://iacdrops.xyz/tags/iacdrops/</loc>
+    <loc>https://riyadhuddin.netlify.app/tags/iacdrops/</loc>
     <lastmod>2021-12-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://iacdrops.xyz/blog/iacdrops/</loc>
+    <loc>https://riyadhuddin.netlify.app/blog/iacdrops/</loc>
     <lastmod>2021-12-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://iacdrops.xyz/</loc>
+    <loc>https://riyadhuddin.netlify.app/</loc>
     <lastmod>2021-12-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://iacdrops.xyz/tags/</loc>
+    <loc>https://riyadhuddin.netlify.app/tags/</loc>
     <lastmod>2021-12-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://iacdrops.xyz/project/example/</loc>
+    <loc>https://riyadhuddin.netlify.app/project/example/</loc>
     <lastmod>2021-05-04T11:30:13+05:30</lastmod>
   </url><url>
-    <loc>https://iacdrops.xyz/project/</loc>
+    <loc>https://riyadhuddin.netlify.app/project/</loc>
     <lastmod>2021-05-04T11:30:13+05:30</lastmod>
   </url><url>
-    <loc>https://iacdrops.xyz/project/portfolio/</loc>
+    <loc>https://riyadhuddin.netlify.app/project/portfolio/</loc>
     <lastmod>2021-05-04T11:30:13+05:30</lastmod>
   </url><url>
-    <loc>https://iacdrops.xyz/project/sparkar_victoryday/</loc>
+    <loc>https://riyadhuddin.netlify.app/project/sparkar_victoryday/</loc>
     <lastmod>2021-05-04T11:30:13+05:30</lastmod>
   </url><url>
-    <loc>https://iacdrops.xyz/privacy-policy/pp/</loc>
+    <loc>https://riyadhuddin.netlify.app/privacy-policy/pp/</loc>
   </url><url>
-    <loc>https://iacdrops.xyz/privacy-policy/tos/</loc>
+    <loc>https://riyadhuddin.netlify.app/privacy-policy/tos/</loc>
   </url><url>
-    <loc>https://iacdrops.xyz/categories/</loc>
+    <loc>https://riyadhuddin.netlify.app/categories/</loc>
   </url><url>
-    <loc>https://iacdrops.xyz/privacy-policy/</loc>
+    <loc>https://riyadhuddin.netlify.app/privacy-policy/</loc>
+  </url><url>
+    <loc>https://riyadhuddin.netlify.app/project/sparkar_ekushe/</loc>
   </url>
 </urlset>

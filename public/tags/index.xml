@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Riyadh Uddin</title>
-    <link>https://iacdrops.xyz/tags/</link>
+    <link>https://riyadhuddin.netlify.app/tags/</link>
     <description>Recent content in Tags on Riyadh Uddin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 19:53:33 +0530</lastBuildDate><atom:link href="https://iacdrops.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 19:53:33 +0530</lastBuildDate><atom:link href="https://riyadhuddin.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iacdrops</title>
-      <link>https://iacdrops.xyz/tags/iacdrops/</link>
+      <link>https://riyadhuddin.netlify.app/tags/iacdrops/</link>
       <pubDate>Fri, 03 Dec 2021 19:53:33 +0530</pubDate>
       
-      <guid>https://iacdrops.xyz/tags/iacdrops/</guid>
+      <guid>https://riyadhuddin.netlify.app/tags/iacdrops/</guid>
       <description></description>
     </item>
     

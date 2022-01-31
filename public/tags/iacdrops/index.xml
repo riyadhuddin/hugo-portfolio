@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iacdrops on Riyadh Uddin</title>
-    <link>https://iacdrops.xyz/tags/iacdrops/</link>
+    <link>https://riyadhuddin.netlify.app/tags/iacdrops/</link>
     <description>Recent content in iacdrops on Riyadh Uddin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 19:53:33 +0530</lastBuildDate><atom:link href="https://iacdrops.xyz/tags/iacdrops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 19:53:33 +0530</lastBuildDate><atom:link href="https://riyadhuddin.netlify.app/tags/iacdrops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PR for iacdrops</title>
-      <link>https://iacdrops.xyz/blog/iacdrops/</link>
+      <link>https://riyadhuddin.netlify.app/blog/iacdrops/</link>
       <pubDate>Fri, 03 Dec 2021 19:53:33 +0530</pubDate>
       
-      <guid>https://iacdrops.xyz/blog/iacdrops/</guid>
+      <guid>https://riyadhuddin.netlify.app/blog/iacdrops/</guid>
       <description>We are under development right now
 Twitter @aws still having issues, it seems other regions also impacted pic.twitter.com/5WuU7Mzfcv
 &amp;mdash; Riyadh Uddin (@RiyadhUddin_) December 7, 2021  Youtube   </description>
